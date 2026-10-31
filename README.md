@@ -3,6 +3,8 @@
 A machine learning app that tells an investor whether a property is a **good investment** and estimates its
 **price after 5 years**. Built with Python, scikit-learn, XGBoost, MLflow and Streamlit.
 
+**Repository:** https://github.com/vanshikakotgirwar02/real-estate-investment-advisor.git
+
 ## 1. Problem and use cases
 - Help investors judge long-term returns and buyers choose high-return properties.
 - Help real-estate platforms automate investment analysis for their listings.
